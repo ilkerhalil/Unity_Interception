@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Unity_Interception.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LogFileFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">app.log</Value>
+    </Setting>
+    <Setting Name="MaxLogFileSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20000</Value>
+    </Setting>
+    <Setting Name="LogToCategoryNamed" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Information</Value>
+    </Setting>
+    <Setting Name="RollingFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Rolling Flat File Trace Listener</Value>
+    </Setting>
+    <Setting Name="TextFormatterNamed" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Text Formatter</Value>
+    </Setting>
+    <Setting Name="UnityPolicyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">logging</Value>
+    </Setting>
+    <Setting Name="LoggingHandlerBeforeMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Method Çalışıyor...</Value>
+    </Setting>
+    <Setting Name="LoggingHandlerAfterMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Method Çalıştı...</Value>
+    </Setting>
+    <Setting Name="LoggingHandlerEventId" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1001</Value>
+    </Setting>
+    <Setting Name="LoggingHandlerLogBeforeCall" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LoggingHandlerLogAfterCall" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LoggingHandlerIncludeParameters" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LoggingHandlerIncludeCallStack" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LoggingHandlerIncludeCallTime" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LoggingHandlerPriority" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="LoggingHandlerOrder" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
